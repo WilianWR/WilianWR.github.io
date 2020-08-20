@@ -1,0 +1,28 @@
+#titulo {
+    color: saddlebrown;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+body {
+    background-color: burlywood;
+}
+
+#bemvindo {
+    color: brown;
+    text-align: center;
+    font-size: 20px;
+}
+
+#links {
+    text-align: center;
+}
+
+#busca {
+    text-align: center;
+}
+
+#produtos {
+    text-align: center;
+}
